@@ -1,0 +1,7 @@
+Name,Email,Phone Number,Address,Age,Grade,Social Security Number,IP Address,Login Time,Study Hours Per Week,Extracurriculars,Favorite Subject
+Maria Garcia,maria.garcia@example.com,555-123-4567,123 Elm St, Los Angeles, CA,21,A,123-45-6789,192.168.1.101,2024-11-12 09:15:32,15,Drama,Mathematics
+Juan Lopez,juan.lopez@example.com,555-987-6543,456 Oak St, San Diego, CA,22,B,234-56-7890,192.168.1.102,2024-11-12 09:20:45,10,Soccer,History
+Sofia Martinez,sofia.martinez@example.com,555-678-1234,789 Pine St, San Francisco, CA,20,C,345-67-8901,192.168.1.103,2024-11-12 09:25:18,20,Debate,Physics
+Carlos Rivera,carlos.rivera@example.com,555-321-8765,321 Cedar St, Fresno, CA,23,D,456-78-9012,192.168.1.104,2024-11-12 09:30:27,5,Music,Chemistry
+Lucia Hernandez,lucia.hernandez@example.com,555-456-7890,654 Maple St, Sacramento, CA,19,A,567-89-0123,192.168.1.105,2024-11-12 09:35:50,12,Basketball,English
+Emily Arroyo,emily.arroyo@example.com,555-654-3210,987 Spruce St, Oakland, CA,12,A,678-90-1234,192.168.1.106,2024-11-12 09:40:15,8,Chess,Art
