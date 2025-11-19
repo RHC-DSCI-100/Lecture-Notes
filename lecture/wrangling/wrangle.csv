@@ -58,9 +58,9 @@ female,2090,hazel,66,20,14,2,66,yes,0,yes,1,no,right,8.5,-5,5,36,53,no,yes,,yes,
 male,98765,black ,59,,4,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 male,3699,brown,70,160,1,2,78,yes,7,yes,0,yes,right,10.5,-2,3,45,25,yes,yes,3,no,no,0,android,yes,yes,yes,yes,yes,right,back,8,3,2,4
 male,2507,black ,73,22,2,2,84,no,15,yes,no,no,right,10.5,3,7,45,22,no,yes,2,no,no,0,apple,no,yes,yes,yes,yes,right,right,6,0,3,4
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+male,3987,Brown,73,2,4,4,85,no,15,yes,no,yes,left,12.5,0,12,46,25,yes,yes,4,no,yes,2,apple,no,yes,yes,yes,yes,left,back,7,0,4,8
+female ,1738,brown,72,52,4,2,63,yes,12,yes,no,no,right,11,-2,5,44,27,yes,yes,3,no,no,0,apple,yes,no,yes,yes,yes,left,stomach,6,8,5,6
+male,6767,brown,72,2,3,1,80,yes,12,yes,no,yes,ambidextrous,13,7,7,45,27,yes,yes,5,no,no,0,android,no,yes,yes,yes,yes,right,stomach,14,0,2,5
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
