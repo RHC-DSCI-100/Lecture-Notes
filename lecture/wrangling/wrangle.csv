@@ -61,11 +61,12 @@ male,2507,black ,73,22,2,2,84,no,15,yes,no,no,right,10.5,3,7,45,22,no,yes,2,no,n
 male,3987,Brown,73,2,4,4,85,no,15,yes,no,yes,left,12.5,0,12,46,25,yes,yes,4,no,yes,2,apple,no,yes,yes,yes,yes,left,back,7,0,4,8
 female ,1738,brown,72,52,4,2,63,yes,12,yes,no,no,right,11,-2,5,44,27,yes,yes,3,no,no,0,apple,yes,no,yes,yes,yes,left,stomach,6,8,5,6
 male,6767,brown,72,2,3,1,80,yes,12,yes,no,yes,ambidextrous,13,7,7,45,27,yes,yes,5,no,no,0,android,no,yes,yes,yes,yes,right,stomach,14,0,2,5
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+male,1389,hazel,65,37,2,2,72,no,14,yes,no,no,right,10,-4,5,39,20,no,yes,2,yes,yes,4,apple,no,no,yes,no,yes,left,back,5.5,0,2,6
+Female,6616,brown,61,20,0,4,76,yes,8,yes,0,no,right,7.5,5,5,36,35,no,yes,2,yes,yes,2,Apple,yes,yes,yes,yes,yes/no,right,side,8,1,4,7
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 male,4324,brown,71,25,5,8,50,yes,9,yes,0,no,right,11,4,9,39,35,no,yes,1,somewhat,yes,3,Apple,yes,yes,yes,yes,no,left,side,8,0,4,3
 male,240499,brown,69,40,3,2,80,yes,15,yes,0,yes,right,10,10,9,,20,yes,yes,3,somewhat,yes,2,Apple,yes,yes,yes,yes,yes,left,side,6,no,4,yes
+female,1574,brown,64,10,5,0,84,no,4,no,no,no,left,11,-5,1,38,27,no,yes,0,no,yes,3,android,no,no,yes,yes,no,right,side,6.5,0,0,4
